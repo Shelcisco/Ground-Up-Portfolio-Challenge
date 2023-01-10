@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 02 Advanced CSS: Portfolio
 
 ## Your Task
@@ -108,3 +109,6 @@ You are required to submit BOTH of the following for review:
 =======
 # Ground-Up-Portfolio-Challenge
 >>>>>>> eb7999248ba82308457c389885ce8b8d419f91d4
+=======
+# Ground-Up-Profile-Challenge
+>>>>>>> c60973c4bddc23a64c00c99a76db63b653748387
