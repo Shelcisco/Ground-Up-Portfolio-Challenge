@@ -15,7 +15,7 @@ html {
 /* Style for header */
 .hero {
     margin-bottom: 0;
-    background-image: url("/assets/image/deskback.jpg");
+    background-image: url("deskback.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -26,7 +26,7 @@ html {
 
 /* To make images round/add border */
 
-img {
+#me,#key_img, #cat_img, #write_img, #messy_img, #coffee_img {
     border-radius: 50%;
     border: 5px solid #ffffff;
   }
@@ -41,6 +41,7 @@ img {
     background-color: rgb(90, 103, 112);
     color: antiquewhite;
     font-family: Segoe Script;
+    src: local("Segoe Script");
 
 
 
